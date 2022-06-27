@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
     backgroundColor: "dimGrey",
   },
   pic: {
-    width: 400,
+    width: 380,
     aspectRatio: 1,
     borderRadius: 200,
     borderColor: "purple",
